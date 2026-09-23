@@ -1,16 +1,26 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**DAREALWOHANY/DAREALWOHANY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile visitors](https://komarev.com/ghpvc/?username=DAREALWOHANY&label=friends&color=blue&style=flat-square)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://files.catbox.moe/ba94ad.gif" alt="Awwwh will"/>
+</p>
+
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31rcdkxxu72dgifgd3ilf5lwhlbi&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31rcdkxxu72dgifgd3ilf5lwhlbi&cover_image=true&theme=novatorem&show_offline=true&background_color=5c0701&interchange=false&profanity=false&hide_remaster=false&bar_color=da5100&bar_color_cover=false">
+<div align="center">
+
+[𝐑𝖾𐓣𝗍𝗋𝗒](https://rentry.co/alwayssunnyphilly) [𝐀𝗍α](https://alwayssunnyinphilly.atabook.org/) [𝐎ᥣᑯ 𝗌𝗍𝗋αωρα𝗀𝖾, 𐓣𝖾ω ⱺ𐓣𝖾 𝗂𝗌 ω𝗂ρ](https://spoonyspoon1cus.straw.page) [𝐏𝗋ⱺ𐓣ⱺυ𐓣𝗌 ρα𝗀𝖾](https://en.pronouns.page/@BRODY-BAYWATCH)
+
+
+</div>
+<p align="center">
+  <img src="https://files.catbox.moe/g61o67.gif" alt="AWWH"/>
+</p>
+ </div>
+<p align="center">
+me btw
+</p>
